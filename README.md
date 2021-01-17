@@ -1,13 +1,21 @@
 # Уроки по Selenium. Python
 
 *Полезные ссылки:*
-1) [Chromedriver]: https://chromedriver.storage.googleapis.com/index.html
+1) Chromedriver: 
+   
+        https://chromedriver.storage.googleapis.com/index.html
 
-2) [Geckodriver - для браузера Mozilla Firefox]: https://github.com/mozilla/geckodriver/releases
+2) Geckodriver - для браузера Mozilla Firefox: 
+   
+        https://github.com/mozilla/geckodriver/releases
 
-3) [Список опций Chromium]: https://peter.sh/experiments/chromium-command-line-switches/
+3) Список опций Chromium:
+   
+        https://peter.sh/experiments/chromium-command-line-switches/
 
-4) [Библиотека fake-useragent]: https://pypi.org/project/fake-useragent/
+4) Библиотека fake-useragent: 
+   
+        https://pypi.org/project/fake-useragent/
 
 
 **Для запуска сделайте следующее (Для Ubuntu/Debian):**
