@@ -1,0 +1,16 @@
+env
+*.pyc
+.idea
+data.json
+persons_url_list.txt
+__pycache__/
+*.log
+debug.json
+79785737254_cookies
+venv
+venv/
+env/
+.env/
+.env
+.venv/
+.venv
