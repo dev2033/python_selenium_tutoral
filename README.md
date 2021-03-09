@@ -5,6 +5,8 @@
    
         https://chromedriver.storage.googleapis.com/index.html
 
+        https://chromedriver.chromium.org/downloads
+
 2) Geckodriver - для браузера Mozilla Firefox: 
    
         https://github.com/mozilla/geckodriver/releases
